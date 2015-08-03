@@ -1,6 +1,5 @@
 # Intro to the Shell
-blaasdfasdfasdf
-test
+
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
 <video controls width="100%">
@@ -15,4 +14,3 @@ Learning to use your command line is crucial to being a programmer. Your termina
 ## Opening a Terminal OSX
 
 The easiest way to open a terminal is through Spotlight.
-test
