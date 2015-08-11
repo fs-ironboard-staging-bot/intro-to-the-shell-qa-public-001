@@ -1,4 +1,4 @@
-# Intro to the Shell
+# Intro to the Shell 
 
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/welcome%20to%20the%20shell.mp4)
 
@@ -7,7 +7,7 @@
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
-## Summary
+## Summary Test
 
 Learning to use your command line is crucial to being a programmer. Your terminal is your workbench, get to love it.
 
